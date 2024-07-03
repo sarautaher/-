@@ -1,0 +1,19 @@
+#home{
+    background-image: url(../image/mw-homepage-bg.jpg);
+    color: white;
+    background-position: center center;
+    background-size: cover;
+}
+.about{
+    background-color: #F4FFFF;  
+    
+}
+.line{
+  
+    width: 100%;
+    height: 2px;
+    background-color: black;
+}
+h5:hover{
+    color: aqua;
+}
